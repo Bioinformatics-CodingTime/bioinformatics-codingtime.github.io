@@ -12,7 +12,7 @@ He is currently pursuing a Master’s degree in Biomedical Sciences at Hubei Uni
  Ph.D. (Offered), Biomedical Sciences
 - Sep. 2022 – Jun. 2025 – Hubei University of Technology
  Master’s Degree, Biology and Medicine
-- Sep. 2018 – Jun. 2022 – Wuhan Institute of Bioengineering
+- Sep. 2018 – Jun. 2022 – Wuhan University of Bioengineering
  Bachelor’s Degree, Medical Laboratory Technology
 
 #### Research Interests
