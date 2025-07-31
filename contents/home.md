@@ -4,7 +4,7 @@
 
 
 #### Email
-1741000910@qq.com & YC57639@um.edu.mo
+- 1741000910@qq.com & YC57639@um.edu.mo
 
 #### Education
 - Feb. 21, 2025 – University of Macau
@@ -43,7 +43,7 @@
 - **Research Tools:** Skilled in Zotero, Obsidian, Jupyter Notebook, Git version control, Docker, VMware, and Tailscale. Experienced in configuring Vultr proxy servers
 - **Experimental Skills:** siRNA transient transfection, primer design, RNA extraction, PCR, RT-PCR, qPCR, CCK-8 assay, Wound healing assay, cell culture, Nucleic acid gel electrophoresis and so on
 #### Research Interests
-Deep Learning, Bioinformatics, Biomedical Data Science, Scientific Programming, AI in Genomics and Transcriptomics.
+- Deep Learning, Bioinformatics, Biomedical Data Science, Scientific Programming, AI in Genomics and Transcriptomics.
 
 #### Original technical articles
 - [Use conda to batch create different Python version environments](https://zhuanlan.zhihu.com/p/685892074)
