@@ -46,8 +46,8 @@
 Deep Learning, Bioinformatics, Biomedical Data Science, Scientific Programming, AI in Genomics and Transcriptomics.
 
 #### Original technical articles
-- [Use conda to batch create different Python version environments](https://zhuanlan.zhihu.com/p/685892074)（https://zhuanlan.zhihu.com/p/685892074）
-- [Install 800 R packages at one go](https://blog.csdn.net/m0_70373388/article/details/136496365)（https://blog.csdn.net/m0_70373388/article/details/136496365）
+- [Use conda to batch create different Python version environments](https://zhuanlan.zhihu.com/p/685892074)
+- [Install 800 R packages at one go](https://blog.csdn.net/m0_70373388/article/details/136496365)
 
 #### Self-Evaluation
 - I am skilled in information retrieval and enjoy delving into technology. I am proficient in using code to conduct data analysis and have a strong foundation in mathematics and statistics. In my spare time, I study computer architecture and maintenance, which has given me a solid understanding of both hardware and software. I also have strong language skills, with excellent writing and public speaking abilities, and I am deeply passionate about scientific research.
