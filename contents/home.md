@@ -21,7 +21,7 @@ He is currently pursuing a Master’s degree in Biomedical Sciences at Hubei Uni
 - Part-time job: Biochemistry/Microbiology tutor ; SCI writing assistant and so on
 #### Project & Dissertation
 - Project (2024.05–08) : PD-1 immunotherapy response mechanisms in liver cancer
-- Github Project:Phage_Activate[Project](https://github.com/zequanhan/phage_activate); This project involves genomic analysis for phage activation. It includes scripts to analyze genome sequences using tools like MEME, Needle, and BLASTP.
+- Github Project:Phage_Activate [Project](https://github.com/zequanhan/phage_activate); This project involves genomic analysis for phage activation. It includes scripts to analyze genome sequences using tools like MEME, Needle, and BLASTP.
 - Dissertation: Roles of HERV9 and L2b retrotransposons in cancer
   
 #### Research Interests
