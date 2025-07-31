@@ -3,7 +3,7 @@
 He is currently pursuing a Master’s degree in Biomedical Sciences at Hubei University of Technology, China. His research interests include bioinformatics, biomedical data science, and the application of AI in life sciences. He has been offered PhD positions at the University of Macau and Macau University of Science and Technology.
 
 #### Email
-1741000910@qq.com
+1741000910@qq.com & YC57639@um.edu.mo
 
 #### Education
 - Feb. 21, 2025 – University of Macau
@@ -21,7 +21,7 @@ He is currently pursuing a Master’s degree in Biomedical Sciences at Hubei Uni
 - Part-time job: Biochemistry/Microbiology tutor ; SCI writing assistant and so on
 #### Project & Dissertation
 - Project (2024.05–08) : PD-1 immunotherapy response mechanisms in liver cancer
-- Github Project:Phage_Activate[https://github.com/zequanhan/phage_activate] ; This project involves genomic analysis for phage activation. It includes scripts to analyze genome sequences using tools like MEME, Needle, and BLASTP.
+- Github Project:[Phage_Activate](https://github.com/zequanhan/phage_activate); This project involves genomic analysis for phage activation. It includes scripts to analyze genome sequences using tools like MEME, Needle, and BLASTP.
 - Dissertation: Roles of HERV9 and L2b retrotransposons in cancer
   
 #### Research Interests
