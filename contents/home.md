@@ -32,13 +32,23 @@
 - Project (2024.05–08) : PD-1 immunotherapy response mechanisms in liver cancer
 - Github Project:Phage_Activate [Project](https://github.com/zequanhan/phage_activate); This project involves genomic analysis for phage activation. It includes scripts to analyze genome sequences using tools like MEME, Needle, and BLASTP.
 - Dissertation: Roles of HERV9 and L2b retrotransposons in cancer
-  
+
+#### Skills
+- **Computer Skills:** Proficient in MacOS, Linux, and Windows OS. Experience in assembling and repairing computer hardware. Skilled in configuring Python and R environments using Anaconda3.
+- **Databases:** Proficient in using NCBI, Ensembl, ENA, and specialized databases like Uniport, Spring, GO, KEGG, and Lncrnadisease. Experienced with Ensembl and UCSC Genome Browser and Entrez tools.
+- **Programming Languages:** Skilled in Python, Bash-shell, and R, with knowledge of Lua and Perl. Capable of scripting for research problem-solving and scientific plotting. Proficient in regular expressions, text, and data processing.
+- **Transcriptomics Analysis:** Proficient in QC reporting and using tools such as Fastqc, Fasterq-dump, Hisat2, Trim_galore, Cellranger, Prefetch, Ascp, Samtools, and Blast. Experience in single-cell transcriptome sequencing projects.
+- **Bioinformatics GUI Analysis:** Proficient in Mauve, IGV, TBtools, Mega11, Pymol, Cytoscape, and shinyCircos.
+- **Front-End Skills:** Experienced with Biopython, and basic HTML, CSS, and JavaScript. Familiar with network protocols and web scraping techniques.
+- **Laboratory Skills:** Primer design, siRNA design, transient transfection, Q-rtPCR, lentiviral transfection, and Western blot.
+- **Research Tools:** Skilled in Zotero, Obsidian, Jupyter Notebook, Git version control, Docker, VMware, and Tailscale. Experienced in configuring Vultr proxy servers
+- **Experimental Skills:** siRNA transient transfection, primer design, RNA extraction, reversetranscription, qPCR, CCK-8assay, wound healingassay, cell culture
 #### Research Interests
 Deep Learning, Bioinformatics, Biomedical Data Science, Scientific Programming, AI in Genomics and Transcriptomics.
 
 #### Original technical articles
-- [使用conda批量创建不同的Python版本环境](https://zhuanlan.zhihu.com/p/685892074)（https://zhuanlan.zhihu.com/p/685892074）
-- [一口气安装800个R包](https://blog.csdn.net/m0_70373388/article/details/136496365)（https://blog.csdn.net/m0_70373388/article/details/136496365）
+- [Use conda to batch create different Python version environments](https://zhuanlan.zhihu.com/p/685892074)（https://zhuanlan.zhihu.com/p/685892074）
+- [Install 800 R packages at one go](https://blog.csdn.net/m0_70373388/article/details/136496365)（https://blog.csdn.net/m0_70373388/article/details/136496365）
 
 #### Self-Evaluation
 - I am skilled in information retrieval and enjoy delving into technology. I am proficient in using code to conduct data analysis and have a strong foundation in mathematics and statistics. In my spare time, I study computer architecture and maintenance, which has given me a solid understanding of both hardware and software. I also have strong language skills, with excellent writing and public speaking abilities, and I am deeply passionate about scientific research.
