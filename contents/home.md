@@ -40,9 +40,8 @@
 - **Transcriptomics Analysis:** Proficient in QC reporting and using tools such as Fastqc, Fasterq-dump, Hisat2, Trim_galore, Cellranger, Prefetch, Ascp, Samtools, and Blast. Experience in single-cell transcriptome sequencing projects.
 - **Bioinformatics GUI Analysis:** Proficient in Mauve, IGV, TBtools, Mega11, Pymol, Cytoscape, and shinyCircos.
 - **Front-End Skills:** Experienced with Biopython, and basic HTML, CSS, and JavaScript. Familiar with network protocols and web scraping techniques.
-- **Laboratory Skills:** Primer design, siRNA design, transient transfection, Q-rtPCR, lentiviral transfection, and Western blot.
 - **Research Tools:** Skilled in Zotero, Obsidian, Jupyter Notebook, Git version control, Docker, VMware, and Tailscale. Experienced in configuring Vultr proxy servers
-- **Experimental Skills:** siRNA transient transfection, primer design, RNA extraction, reversetranscription, qPCR, CCK-8assay, wound healingassay, cell culture
+- **Experimental Skills:** siRNA transient transfection, primer design, RNA extraction, PCR, RT-PCR, qPCR, CCK-8 assay, Wound healing assay, cell culture, Nucleic acid gel electrophoresis and so on
 #### Research Interests
 Deep Learning, Bioinformatics, Biomedical Data Science, Scientific Programming, AI in Genomics and Transcriptomics.
 
