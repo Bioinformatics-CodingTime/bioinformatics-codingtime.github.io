@@ -4,3 +4,4 @@
 	4.	Oct. 2023 – First-Class Academic Scholarship (Master’s Program)
 	5.	Jan. 2024 – Angel Yeast Enterprise Scholarship
 	6.	Oct. 2024 – Second-Class Academic Scholarship
+	Other Honor:Contribution Award for Campus Culture Development,Active Participant in Labor,Advanced Individual in Labor,Outstanding Study Notes 	Award,Excellent Department Head,Outstanding Assistant Counselor,Merit Student (Sanhao Student),Advanced Individual in Social Practice,First Prize in Enrollment Promotion Practice Program,Excellent Yiban Cadre and so on
