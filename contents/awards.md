@@ -4,7 +4,8 @@
 	4.	Oct. 2023 – First-Class Academic Scholarship (Master’s Program)
 	5.	Jan. 2024 – Angel Yeast Enterprise Scholarship
 	6.	Oct. 2024 – Second-Class Academic Scholarship
-	#### Other Honor
+	
+	Other Honor include：
  	Contribution Award for Campus Culture Development
 	Active Participant in Labor
 	Advanced Individual in Labor
